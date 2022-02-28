@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @adebayo89
+- 👀 I’m interested design, modeling and simulation of generator
+- 🌱 I’m currently learning simulink
+- 💞️ I’m looking to collaborate on good programmer with Matlab
+- 📫 How to reach me ishaqlad@gmail.com
+
+<!---
+adebayo89/adebayo89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
